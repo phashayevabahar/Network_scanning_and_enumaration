@@ -11,8 +11,13 @@ Metasploitable2
 You can preview the test network that will be used for scanning by uploading the files.
 
 ## You can see:
-![Live hosts](image-folder/live-hosts_10.0.2.0-.png)  
+**Live Hosts**  
+![Live hosts](image-folder/live-hosts_10.0.2.0.png)  
+**SYN scan**  
 ![SYN scan](image-folder/SYN-scan.png)  
+**Service version**  
 ![Service version](image-folder/Service-version.png)  
+**Operating System detection**  
 ![Operating System detection](image-folder/os-detection.png)  
+**Banner grabbing**  
 ![Banner grabbing](image-folder/banner-grabbing_ftp.png)  
